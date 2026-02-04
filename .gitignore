@@ -1,3 +1,9 @@
 # Ignore macOS system files used to store folder metadata
 .DS_Store
+# 忽略 Python 编译文件
+__pycache__/
+*.pyc
 
+# 忽略 ok 评分程序的临时文件
+.ok_history
+.ok_storage
