@@ -7,3 +7,4 @@ __pycache__/
 # 忽略 ok 评分程序的临时文件
 .ok_history
 .ok_storage
+.ok_*
